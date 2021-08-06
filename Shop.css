@@ -1,0 +1,47 @@
+header section nav footer{
+    border: 1px solid black;
+
+}
+header{
+  
+    
+    margin-bottom: 0px;
+    height: 150px;
+    margin-top: -20px;
+   
+    
+    
+   
+}
+section{
+    margin-top: -50px;
+    
+    
+}
+.menu{
+    background-color: rgb(109, 241, 213);
+    
+}
+.search{
+    width: 600px;
+    height: 40px;
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 30px;
+    border: 0;
+    font-size: 17px;
+    padding-left: 18px;
+ 
+}
+.timkiem{
+    border: 0;
+    position: absolute;
+    width: 140px;
+    height: 42px;
+    margin-left: 650px;
+    margin-top: 80px;
+    background-color: rgb(31, 151, 101);
+    color: aliceblue;
+    font-size: 15px;
+    
+}
